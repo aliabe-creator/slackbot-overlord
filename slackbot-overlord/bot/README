@@ -1,3 +1,3 @@
-Hey! I developed this bot to work alongside the other bots. As of now, this bot will welcome a user when they join by sending them a DM, will react with :wave: when someone mentions it, and shows help pages for itself and its counterparts.
+Hey! I developed this bot to work alongside the other Slack bots. As of now, this bot will welcome a user when they join by sending them a DM, will react with :wave: when someone mentions it, and shows help pages for itself and its counterparts.
 
 The bot uses port 5002 to avoid conflict with other bots. If you want to use this program, create a .env file with appropriate attributes. You are free to use all or part of this program.
